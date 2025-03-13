@@ -3,17 +3,15 @@
 
 - 🔭 I’m currently studying on **systems analysis and development**
 
-- 🌱 I’m currently learning **Java, .Net, C#**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
 - 👯 I’m looking to collaborate on **back end projects**
 
 - 🤝 I’m looking for help with **.Net**
 
-- 💬 Ask me about **honestly... Java**
+- 📫 How to reach me **josefernandobezerrads@gmail.com**
 
-- 📫 How to reach me **heifernando1@Gmail.com**
-
-- ⚡ Fun fact **I love Taylor Swift**
+- ⚡ Fun fact **I TS songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
