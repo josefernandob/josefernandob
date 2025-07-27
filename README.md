@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently studying on **systems analysis and development**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Data Analysis**
 
-- 👯 I’m looking to collaborate on **back end projects**
+- 👯 I’m looking to collaborate on **data projects**
 
-- 🤝 I’m looking for help with **.Net**
+- 🤝 I’m looking for help with **Python**
 
 - 📫 How to reach me **josefernandobezerrads@gmail.com**
 
