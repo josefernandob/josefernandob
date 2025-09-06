@@ -2,8 +2,8 @@
 
 ## Quem sou eu?
 
-* Me chamo Fernando, tenho 22 anos, atualmente sou estudante de Análise e Desenvolvimento de Sistemas na faculdade SENAC - PE pelo Embarque Digital. 
-  Tenho conhecimento em algumas tecnologias como: Python, JavaScript, MySQL, Scrum, Kanban, PowerBI, Excel, Git e GitHUB. Aprecio bastante o desenvolvimento de uma forma geral, mas tenho preferência pelo back-end, utilizando Python como tecnologia principal. Além disso, hoje foco principalmente em Python voltado para análise de dados. 
+Sou Fernando, um profissional de 22 anos em formação em Análise e Desenvolvimento de Sistemas pelo SENAC - PE, no programa Embarque Digital. Atualmente, meu foco está em Análise de Dados e Machine Learning, com especialização em Python e bibliotecas como Scikit-learn.
+Tenho sólidos conhecimentos em SQL e Power BI, além de experiência com JavaScript, Scrum, Kanban, Git e GitHub. Busco oportunidades para aplicar minhas habilidades e crescer na área de tecnologia.
 
 # Conecte-se comigo!
 
