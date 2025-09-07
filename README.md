@@ -32,3 +32,5 @@ Tenho sólidos conhecimentos em SQL e Power BI, além de experiência com JavaSc
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=josefernandob&repo=Projeto-de-Data-Science&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/josefernandob/Projeto-de-Data-Science)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=josefernandob&repo=CheckPoint&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/josefernandob/CheckPoint)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=josefernandob&repo=The-Titanic-Sobrevivence&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/josefernandob/The-Titanic-Sobrevivence)
