@@ -25,7 +25,7 @@ Tenho sólidos conhecimentos em SQL e Power BI, além de experiência com JavaSc
 
 # 📊 Linguagens Mais Usadas
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josefernandob&layout=compact&theme=tokyonight&hide_border=true)
+
 
 # Minhas contribuções
 
